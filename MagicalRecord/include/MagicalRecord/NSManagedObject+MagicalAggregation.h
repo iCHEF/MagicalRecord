@@ -1,0 +1,1 @@
+../../Categories/NSManagedObject/NSManagedObject+MagicalAggregation.h
