@@ -29,6 +29,7 @@ let package = Package(
                 .headerSearchPath("Categories/DataImport"),
                 .headerSearchPath("Categories/NSManagedObject"),
                 .headerSearchPath("Categories/NSManagedObjectContext"),
+                .define("NS_BLOCK_ASSERTIONS", to: "1", .when(configuration: .release))
             ]
         )
     ]
