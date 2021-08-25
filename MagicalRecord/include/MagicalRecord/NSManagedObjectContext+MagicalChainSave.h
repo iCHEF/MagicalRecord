@@ -1,0 +1,1 @@
+../../Categories/NSManagedObjectContext/NSManagedObjectContext+MagicalChainSave.h

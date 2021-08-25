@@ -1,0 +1,1 @@
+../../Core/MagicalRecord+Options.h
